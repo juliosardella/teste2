@@ -1,0 +1,97 @@
+{
+  "conciliacao-coobrigacao": [
+    
+   {
+    "history": "1-Debito: Coobrigação efetivada",
+    "creditUnits": [],
+    "operation": 3,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+	"erpId": "01000177936801",
+    "date": "20200728",
+    "localAmount": 771.78,
+	"feeAmount": 1.64,
+    "typeOperation": 1
+  }
+  ],
+  "coobrigacao": [
+    
+   {
+    "history": "1-Debito: Coobrigação efetivada",
+    "creditUnits": [],
+    "operation": 20,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+	"erpId": "01000177936801",
+    "date": "20200728",
+    "localAmount": 771.78,
+	"feeAmount": 1.64,
+    "typeOperation": 1
+  }
+  ], 
+   "divergencia": [
+   {
+    "history": "Divergência comercial",
+    "creditUnits": [],
+    "operation": 4,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177933201",
+    "date": "20200828",
+    "localAmount": 325.7,
+    "feeAmount": 15.53,
+	"feeAmountOrigin": 12.01,
+    "typeOperation": 1,
+    "bankCode": "1",
+    "agencyCode ": "4362-1",
+    "accountCode": "5237-X"
+	
+  }
+  ],
+   "recompra": [
+   {
+    "history": "Recompra",
+    "creditUnits": [],
+    "operation": 8,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177933201",
+    "date": "20200828",
+    "localAmount": 325.7,
+    "feeAmount": 15.53,
+    "typeOperation": 1,
+    "bankCode": "1",
+    "agencyCode ": "4362-1",
+    "accountCode": "5237-X"
+  }
+          
+  ],
+   "estorno_baixa": [
+   {
+    "history": "Estorno Baixa",
+    "creditUnits": [],
+    "operation": 2,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177917301",
+    "date": "20200828",
+    "localAmount": 123.7,
+    "feeAmount": 1.53,
+    "typeOperation": 1,
+    "bankCode": "1",
+    "agencyCode ": "4362-1",
+    "accountCode": "5237-X"
+  },{
+    "history": "Estorno Baixa",
+    "creditUnits": [],
+    "operation": 2,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177935801",
+    "date": "20200828",
+    "localAmount": 1149.72,
+    "feeAmount": 21.53,
+    "typeOperation": 1,
+    "bankCode": "1",
+    "agencyCode ": "4362-1",
+    "accountCode": "5237-X"
+  }
+          
+  
+  ]
+  
+}
