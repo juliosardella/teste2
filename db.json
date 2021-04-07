@@ -15,7 +15,7 @@
   "conciliacao": [
     
    {
-    "history": "1-Debito: Coobrigação efetivada",
+    "history": "IMPL com 2-Credito: Implantação de antecipação",
     "creditUnits": [],
     "operation": 20,
     "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -23,12 +23,12 @@
     "date": "20200728",
     "localAmount": 771.78,
 	"feeAmount": 1.64,
-    "typeOperation": 1
+    "typeOperation": 2
   }
   ], 
    "baixa": [
    {
-    "history": "Divergência comercial",
+    "history": "Baixa",
     "creditUnits": [],
     "operation": 4,
     "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -37,7 +37,7 @@
     "localAmount": 771.78,
 	"feeAmount": 1.64,
 	"feeAmountOrigin": 12.01,
-    "typeOperation": 1,
+    "typeOperation": 0,
     "bankCode": "1",
     "agencyCode ": "4362-1",
     "accountCode": "5237-X"
