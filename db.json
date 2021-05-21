@@ -23,7 +23,10 @@
     "date": "20200728",
     "localAmount": 771.78,
 	"feeAmount": 1.64,
-    "typeOperation": 2
+    "typeOperation": 2,
+	"bankCode": "206",
+    "agencyCode ": "7218",
+    "accountCode": "27501-8"
   }
   ], 
    "baixa_parcial": [
